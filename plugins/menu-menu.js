@@ -1,6 +1,6 @@
 
 /********************************************
-*         DORRAT-BOT-MD BY DIEGO-OFC        *
+*        Black-BOT-MD BY El negro-OFC        *
 /********************************************/
 import fs, { promises } from 'fs'
 import fetch from 'node-fetch'
@@ -22,13 +22,13 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 m.reply("⏱️ 𝐂𝐀𝐑𝐆𝐀𝐍𝐃𝐎 𝐌𝐄𝐍𝐔...")
 let str = `
 *══〘 🔥⚡🔥⚡🔥⚡🔥〙═══╮*
-*║ ▢ 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃*
+*║ ▢ Black-𝐁𝐎𝐓-𝐌𝐃*
 *║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋*
 *║ ▢ ❤𝐇𝐎𝐋𝐀, ${taguser}❤*
 *║≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋≋*
-*║ ▢ 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 𝐃𝐄𝐋 𝐁𝐎𝐓: 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂* 
-*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑: wa.me/593959425714 (𝐍𝐎 𝐁𝐎𝐓)*
-*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐎𝐅𝐈𝐂𝐈𝐀𝐋: wa.me/573122695406 (𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 𝐃𝐎𝐑𝐑𝐀𝐓)*
+*║ ▢ 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 𝐃𝐄𝐋 𝐁𝐎𝐓: El negro* 
+*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐂𝐑𝐄𝐀𝐃𝐎𝐑: wa.me/595983186566 *
+*║ ▢ 𝐍𝐔𝐌𝐄𝐑𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓 𝐎𝐅𝐈𝐂𝐈𝐀𝐋: wa.me/595983186566 (𝐎𝐅𝐈𝐂𝐈𝐀𝐋 𝐃𝐄 Black)*
 *║ ▢ 𝐕𝐄𝐑𝐒𝐈𝐎𝐍 » ${vs}*
 *║ ▢ 𝐅𝐄𝐂𝐇𝐀 » ${week}, ${date}*
 *║ ▢ 𝐓𝐈𝐄𝐌𝐏𝐎 𝐀𝐂𝐓𝐈𝐕𝐎 » ${uptime}*
@@ -37,7 +37,7 @@ let str = `
 *║ ▢ 𝐔𝐒𝐔𝐀𝐑𝐈𝐎𝐒 » ${Object.keys(global.db.data.users).length}*
 *╰══╡🔥⚡🔥⚡🔥⚡🔥╞══╯*
 
-*╭━〔 INFORMACIÓN DE DORR∆T-BOT 〕━⬣*
+*╭━〔 INFORMACIÓN DE Black-BOT 〕━⬣*
  ┃ 🔰 _${usedPrefix}grupos_
  ┃ 🔰 _${usedPrefix}estado_
  ┃ 🔰 _${usedPrefix}instalarbot_
@@ -263,38 +263,6 @@ let str = `
 ├➢🌃${usedPrefix}cosplay
 └────ׂ─ׂ─ׂ─ׂ───
 
-┌──「🔞𝐂𝐨𝐦𝐚𝐧𝐝𝐨𝐬 +𝟏𝟖」
-├➢🔞 _${usedPrefix}pack_
-├➢🔞 _${usedPrefix}pack2_
-├➢🔞 _${usedPrefix}pack3_
-├➢🔞 _${usedPrefix}videoxxx_
-├➢🔞 _${usedPrefix}tiktokxxx_
-├➢🔞 _${usedPrefix}tetas_
-├➢🔞 _${usedPrefix}booty_
-├➢🔞 _${usedPrefix}ecchi_
-├➢🔞 _${usedPrefix}furro_
-├➢🔞 _${usedPrefix}imagenlesbians_
-├➢🔞 _${usedPrefix}panties_
-├➢🔞 _${usedPrefix}pene_
-├➢🔞 _${usedPrefix}porno_
-├➢🔞 _${usedPrefix}porno2_
-├➢🔞 _${usedPrefix}randomxxx_
-├➢🔞 _${usedPrefix}pechos_
-├➢🔞 _${usedPrefix}yaoi_
-├➢🔞 _${usedPrefix}yaoi2_
-├➢🔞 _${usedPrefix}yuri_
-├➢🔞 _${usedPrefix}yuri2_
-├➢🔞 _${usedPrefix}trapito_
-├➢🔞 _${usedPrefix}hentai_
-├➢🔞 _${usedPrefix}nsfwloli_
-├➢🔞 _${usedPrefix}nsfworgy_
-├➢🔞 _${usedPrefix}nsfwfoot_
-├➢🔞 _${usedPrefix}nsfwass_
-├➢🔞 _${usedPrefix}nsfwbdsm_
-├➢🔞 _${usedPrefix}nsfwcum_
-├➢🔞 _${usedPrefix}nsfwero_
-├➢🔞 _${usedPrefix}nsfwfemdom_
-├➢🔞 _${usedPrefix}nsfwglass_
 └────ׂ─ׂ─ׂ─ׂ──
 
 ┌──「𝐄𝐟𝐞𝐜𝐭𝐨𝐬 𝐝𝐞 𝐚𝐮𝐝𝐢𝐨𝐬」
@@ -475,7 +443,7 @@ let str = `
 ├➢👑 _${usedPrefix}listprem_
 └────ׂ─ׂ─ׂ─ׂ───
  ━━━━━━━━━━━━━━━━━━━━━━━━━
-┃𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃 𝐁𝐘 𝐃𝐈𝐄𝐆𝐎-𝐎𝐅𝐂┃
+┃Black-𝐁𝐎𝐓-𝐌𝐃 𝐁𝐘 El negro-𝐎𝐅𝐂┃
  ━━━━━━━━━━━━━━━━━━━━━━━━━
 `.trim()
 let buttons = [
@@ -495,10 +463,10 @@ externalAdReply: {
 showAdAttribution: true,
 mediaType: 'VIDEO',
 mediaUrl: null,
-title:'👑 𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃 👑',
+title:'👑 Black-𝐁𝐎𝐓-𝐌𝐃 👑',
 body: null,
 thumbnail: null,
-sourceUrl: `https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo`
+sourceUrl: `https://github.com/Micasatio/Black_`
 }}}
 conn.sendMessage(m.chat, buttonMessage, { quoted: m })
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
