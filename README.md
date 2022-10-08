@@ -1,35 +1,29 @@
-# `🍁 𝑫𝑶𝑹𝑹𝑨𝑻-𝑩𝑶𝑻-𝑴𝑫 🍁`
+# `🍁 BlackBot-𝑴𝑫 🍁`
 <p align="center"> 
-  <a href="https://github.com/DIEGO-OFC/DORRAT-BOT-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=DORRAT+BOT+MD++🤖;Gracias+por+visitar+este+repositorio.💥" height="90px"
+  <a href="https://github.com/DIEGO-OFC/DORRAT-BOT-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=BLACK+BOT+MD++🤖;Gracias+por+visitar+este+repositorio.💥" height="90px"
 </p> 
 
 
-<p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
-</p>
 
-`—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573184314110" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+`—◉ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
+
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
 
 # `🔥GRUPOS OFICIALES`
 
 [![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo)  <a href="https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-[![blog](https://img.shields.io/badge/Grupo-Oficial2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb)  <a href="https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+)](https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D)  <a href="https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
+
 
 ---------
 > GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
 
 # `❤️BOTS OFICIALES`
 
-<a href="http://wa.me/573122695406" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595983186566" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="http://wa.me/5493534267295" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 > [⚠️] USAR LOS BOTS SIN SPAM
 
@@ -44,15 +38,7 @@
 
 ### `—◉ ⚜️ LETRA DEL BOT ⚜️`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
-  
-### `—◉ 🛡️ ACTIVAR EN REPLIT 🛡️`
 
-[![Run on Repl.it](https://repl.it/badge/github/DIEGO-OFC/DORRAT-BOT-MD)](https://repl.it/github/DIEGO-OFC/DORRAT-BOT-MD)
-> [❗ obligatorio ❗] si vas a instalar en replit edita la carpeta dorrat-inicio.js y ponle index.js
-> Es obligatorio o no funcionará en replit
-### `—◉ ⚒️ 𝐀𝐉𝐔𝐒𝐓𝐄𝐒 ⚒️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/configuracion.js)
 
 ### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
