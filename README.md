@@ -52,8 +52,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMU
-> cd DORRAT-TERMUX
+> git clone https://github.com/Micasatio/Black_
+> cd Black_
 > yarn install 
 > npm install
 > npm update
@@ -64,18 +64,18 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd Black_
 > npm start
 ```
 
 ### `—◉ 𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑` <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/qrcode_30531084_.png" height="30px">
 
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A DORRAT-TERMUX $  
+- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Black_ $  
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
-> rm -rf DORRATSESSION 
+> cd Black
+> rm -rf Black_SESSION 
 > npm start
 ```
 
@@ -85,8 +85,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > 𝙴𝙻 𝙱𝙾𝚃 𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝚃𝙸𝙱𝙻𝙴 𝙲𝙾𝙽 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝙽𝙾𝚁𝙼𝙰𝙻 𝙾 𝙱𝚄𝚂𝙸𝙽𝙴𝚂𝚂
 > 𝙰𝚃𝙴𝙽𝚃𝙾 𝙰 𝙻𝙰𝚂 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝙲𝙸𝙾𝙽𝙴𝚂 𝚀𝚄𝙴 𝚂𝙴 𝙷𝙰𝙶𝙰𝙽 𝙴𝙽 𝙴𝚂𝚃𝙴 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙾
 > 𝙴𝙻 𝙰𝙳𝙳 𝚈 𝙴𝙻 𝙺𝙸𝙲𝙺 𝙿𝚄𝙴𝙳𝙴𝙽 𝙾𝙲𝙰𝚂𝙸𝙾𝙽𝙰𝚁 𝚀𝚄𝙴 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝚂𝙴 𝚅𝙰𝚈𝙰 𝙰 𝚂𝙾𝙿𝙾𝚁𝚃𝙴 𝙿𝙾𝚁 𝙴𝙻𝙻𝙾 𝚂𝙴 𝙰𝙲𝚃𝙸𝚅𝙰 𝙲𝙾𝙽 #𝚎𝚗𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝 
-> 𝙳𝙾𝚁𝚁𝙰𝚃-𝙱𝙾𝚃 - 𝚃𝙴𝙰𝙼 𝙽𝙾 𝚂𝙴 𝙷𝙰𝙲𝙴 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙻𝙴 𝙳𝙴𝙻 𝚄𝚂𝙾, 𝙽𝚄𝙼𝙴𝚁𝙾𝚂, 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝙸𝙳𝙾 𝙼𝙰𝙽𝙳𝙰𝙳𝙾, 𝚄𝚂𝙰𝙳𝙾 𝙾 𝙶𝙴𝚂𝚃𝙸𝙾𝙽𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚃𝙴𝙳𝙴𝚂 𝙾 𝙴𝙻 𝙱𝙾𝚃
+> BLACK - 𝚃𝙴𝙰𝙼 𝙽𝙾 𝚂𝙴 𝙷𝙰𝙲𝙴 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙻𝙴 𝙳𝙴𝙻 𝚄𝚂𝙾, 𝙽𝚄𝙼𝙴𝚁𝙾𝚂, 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝙸𝙳𝙾 𝙼𝙰𝙽𝙳𝙰𝙳𝙾, 𝚄𝚂𝙰𝙳𝙾 𝙾 𝙶𝙴𝚂𝚃𝙸𝙾𝙽𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚃𝙴𝙳𝙴𝚂 𝙾 𝙴𝙻 𝙱𝙾𝚃
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
+<a href="https://github.com/Micasatio"><img src="https://github.com/Micasatio.png" width="300" height="300" alt="DIEGO-OFC"/></a>
 
-> The Dorr∆t-bot _ By DIEGO OFC
+
