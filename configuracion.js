@@ -6,16 +6,16 @@ import fs from 'fs'
 
 //cambia los números que sean propietarios 
 global.owner = [
-  ['593959425714', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Creador 🔰', true],
-  ['51993138466', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 1 🔰', true],
-  ['573184314110', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Collaborator 3 🔰', true],
-  ['51928078536', '🔰  †𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 4 🔰', true],
-  ['19786077075'],
-  ['51936767238'],
-  ['584125778026']
+  ['595983186566', '🔰  Black - Creador 🔰', true],
+  ['595983186566', '🔰  Black - Collaborator 1 🔰', true],
+  ['595983186566', '🔰  Black - Collaborator 3 🔰', true],
+  ['595983186566', '🔰  Black - Col𝚊𝚋𝚘𝚛𝚊𝚍𝚘𝚛𝚊 4 🔰', true],
+  ['595983186566'],
+  ['595983186566'],
+  ['595983186566']
 
 ] 
-global.suittag = ['593959425714'] 
+global.suittag = ['595983186566'] 
 global.mods = [] 
 global.prems = [] 
 
@@ -77,12 +77,12 @@ global.vs = '1.2.27'
 global.version = vs
 //------------- Sticker WM -----------
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
-global.wm = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤ | 𝘿𝙄𝙀𝙂𝙊-𝙊𝙁𝘾'
-global.igfg = '†𝐃⃟𝕺𝐑⃯𝐑𝐇⃯𝚵𝐓᪣𝕭⃯𝚹⃯𝐓⃤'
+global.author = 'Black Bot '
+global.wm = 'BlackBot | El Negro'
+global.igfg = '†BlackBot'
 global.wait = '*[❗] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*'
 //-------------------
-global.md = 'https://chat.whatsapp.com/CrsOmirjZNYKrvnQNT98Oo'
+global.md = 'https://chat.whatsapp.com/K24yEXY9okI03gcFkW0u1D'
 global.dorramd = md
 
 //_____________________________________________
@@ -93,7 +93,7 @@ global.fg = '☆━━━━━━━ ⚠️ 𝙵𝙰𝙻𝙻𝙾 | 𝙵𝙰𝙻
 global.fallo = fg
 global.mg = '══ ❎ 𝙻𝙾 𝚄𝚂𝙾 𝙼𝙰𝙻 ❎ ══'
 global.mal = mg
-global.dorre = 'DORRAT-BOT-MD'
+global.dorre = 'BlackBot'
 global.DORRA = dorre
 
 //Imagenes___________________
