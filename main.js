@@ -106,7 +106,7 @@ global.timestamp.connect = new Date
 }
 if (global.db.data == null) loadDatabase()
 if (connection == 'open') {
-console.log(chalk.yellow('╭──────────────────────────────✧•°•°···\n│➢ 𝐁𝐎𝐓 𝐂𝐎𝐍𝐄𝐂𝐓𝐀𝐃𝐎 𝐂𝐎𝐑𝐑𝐄𝐂𝐓𝐀𝐌𝐄𝐍𝐓𝐄 ☑️\n│❏ 𝐁𝐎𝐓 𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐃𝐎:𝐃𝐎𝐑𝐑𝐀𝐓-𝐁𝐎𝐓-𝐌𝐃 ☑️\n╰──────────────────────────────✧•°•°···'))}
+console.log(chalk.yellow('╭──────────────────────────────✧•°•°···\n│➢ 𝐁𝐎𝐓 𝐂𝐎𝐍𝐄𝐂𝐓𝐀𝐃𝐎 𝐂𝐎𝐑𝐑𝐄𝐂𝐓𝐀𝐌𝐄𝐍𝐓𝐄 ☑️\n│❏ 𝐁𝐎𝐓 𝐈𝐍𝐒𝐓𝐀𝐋𝐀𝐃𝐎:Black-𝐁𝐎𝐓-𝐌𝐃 ☑️\n╰──────────────────────────────✧•°•°···'))}
 }
 
 process.on('uncaughtException', console.error)
@@ -137,7 +137,7 @@ conn.ev.off('connection.update', conn.connectionUpdate)
 conn.ev.off('creds.update', conn.credsUpdate)
 }
   
-conn.welcome = '┏━━━━━━━━━━━━\n┃──〘 *WELCOME* 〙──\n┃━━━━━━━━━━━━\n┃ *_✨ @user bienvenid@ a_* \n┃ *_@subject ✨_*\n┃\n┃=> *_En este grupo podrás_*\n┃ *_encontrar:_*\n┠⊷ *Amistades 🫂* \n┠⊷ *Desmadre 💃🕺* \n┠⊷ *Relajo 💅* \n┠⊷ *Enemig@s 🥵* :\n┠⊷ *Un Bot Sexy*\n┃\n┃=> *_Puedes solicitar mi lista de_*\n┃ *_comandos con:_*\n┠⊷ *#menu*\n┃\n┃=> *_Aquí tienes la descripción_* \n┃ *_del grupo, léela!!_*\n┃\n\n@desc\n\n┃ \n┃ *_🔰  Disfruta de tu_* \n┃ *_estadía en el grupo  🔰_*  \n┃\n┗━━━━━━━━━━━'
+conn.welcome = '┏━━━━━━━━━━━━\n┃──〘 *WELCOME* 〙──\n┃━━━━━━━━━━━━\n┃ *_✨ @user bienvenid@ a_* \n┃ *_@subject ✨_*\n┃\n┃=> *_En este grupo podrás_*\n┃ *_encontrar:_*\n┠⊷ *Amistades 🫂* \n┠⊷ *Desmadre 💃🕺* \n┠⊷ *Relajo 💅* \n┠⊷ *Enemig@s 🥵* :\n┠⊷ *Un Bot Sexy yo *\n┃\n┃=> *_Puedes solicitar mi lista de_*\n┃ *_comandos con:_*\n┠⊷ *#menu*\n┃\n┃=> *_Aquí tienes la descripción_* \n┃ *_del grupo, léela!!_*\n┃\n\n@desc\n\n┃ \n┃ *_🔰  Disfruta de tu_* \n┃ *_estadía en el grupo  🔰_*  \n┃\n┗━━━━━━━━━━━'
 conn.bye = '*╔══════════════*\n*╟❧ @user*\n*╟❧ 𝙷𝙰𝚂𝚃𝙰 𝙿𝚁𝙾𝙽𝚃𝙾 👋🏻* \n*╚══════════════*'
 conn.spromote = '『❗』 *@user 𝚂𝙴 𝚂𝚄𝙼𝙰 𝙰𝙻 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙰𝙳𝙼𝙸𝙽𝚂!!*'
 conn.sdemote = '『❗』 *@user 𝙰𝙱𝙰𝙽𝙳𝙾𝙽𝙰 𝙴𝙻 𝙶𝚁𝚄𝙿𝙾 𝙳𝙴 𝙰𝙳𝙼𝙸𝙽𝚂 !!*'
