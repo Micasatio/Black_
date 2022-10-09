@@ -1,7 +1,7 @@
 {
     "name": "Black Bot-MD",
     "version": "1.0.0",
-    "description": "Como se siente como se siente ",
+    "description": "Como se siente como se siente",
     "main": "dorrat-inicio.js",
     "type": "module",
     "directories": {
